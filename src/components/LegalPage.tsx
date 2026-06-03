@@ -1,5 +1,5 @@
 import SectionBadge from "./SectionBadge";
-import Icon from "./Icon";
+/*import Icon from "./Icon";*/
 
 interface Section { title: string; body: string; }
 
